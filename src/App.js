@@ -1,11 +1,11 @@
-import logo from "./logo.svg";
+import React from "react";
 import "./App.css";
-import MainComp from "./components/MainComp";
+import Main from "./Drag/Main";
 
 function App() {
   return (
     <div className="App">
-      <MainComp />
+      <Main />
     </div>
   );
 }

@@ -1,0 +1,12 @@
+.child-container {
+    width: 150px;
+    height: 150px;
+    border: 1px solid gray;
+    cursor: pointer;
+}
+
+.child-title {
+    background-color: yellow;
+    border-bottom: 1px solid gray;
+
+}
